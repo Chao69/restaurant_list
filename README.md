@@ -1,4 +1,4 @@
-#T his is my new project at AlphaCamp!!
+# T his is my new project at AlphaCamp!!
 **本次專案透過Node.js中Ecpress框架以及handlebars樣板引擎實作出簡易版餐廳推薦清單**
 ## 實作重點
 - 透過Node.js使用Express框架使程式碼更為精簡、易讀
