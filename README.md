@@ -15,8 +15,9 @@
 Node.js v10.24.1
 
 ## 使用框架
-** express 4.17.1 **
-** express-handlebars 5.3.2 **
+**express 4.17.1**
+
+**express-handlebars 5.3.2**
 
 ## 安裝方法
 - 開啟終端機(terminal)，點擊Code，將HTTPS的URL Clone至本機電腦
