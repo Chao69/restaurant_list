@@ -7,16 +7,16 @@
 - 藉由.json的data檔案擷取資料，以精簡程式碼
 
 ## 主要功能
--瀏覽伺服器端所存放的所有餐廳資訊
--點擊餐廳顯示詳細資料
--透過關鍵字搜尋餐廳
+- 瀏覽伺服器端所存放的所有餐廳資訊
+- 點擊餐廳顯示詳細資料
+- 透過關鍵字搜尋餐廳
 
 ## 編程環境
 Node.js v10.24.1
 
 ## 使用框架
-express 4.17.1
-express-handlebars 5.3.2
+** express 4.17.1 **
+** express-handlebars 5.3.2 **
 
 ## 安裝方法
 - 開啟終端機(terminal)，點擊Code，將HTTPS的URL Clone至本機電腦
